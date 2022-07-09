@@ -5,5 +5,6 @@ public class Test006 {
         System.out.println("aaa");
         System.out.println("bbb");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
