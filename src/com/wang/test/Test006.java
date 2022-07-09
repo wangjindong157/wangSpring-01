@@ -8,5 +8,6 @@ public class Test006 {
         System.out.println("hot-fix");
         System.out.println("web");
         System.out.println("master01");
+        System.out.println("web01");
     }
 }
