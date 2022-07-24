@@ -9,5 +9,6 @@ public class Test006 {
         System.out.println("web");
         System.out.println("master01");
         System.out.println("web01");
+        System.out.println("rebase");
     }
 }
