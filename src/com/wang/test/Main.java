@@ -7,6 +7,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("干嘛");
         Scanner scanner = new Scanner(System.in);
 
         int rootVal = scanner.nextInt();
